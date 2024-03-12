@@ -1,0 +1,1 @@
+import{_ as e}from"./Content-Ete-AfGz.js";import{c as a,a as o,o as t}from"./index-caAnVics.js";const n={__name:"MoviesPage",setup(r){return(c,s)=>(t(),a("div",null,[o(e,{type:"movie"})]))}};export{n as default};
